@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F7DB21D9-F50C-4179-81CD-58994CAEF98E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>REPagedScrollViewExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DA79BFFC-1562-4975-B5BF-3F52A29B95ED</key>
+		<string>https://github.com/aaronsakowski/REPagedScrollView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>REPagedScrollViewExample/REPagedScrollViewExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DA79BFFC-1562-4975-B5BF-3F52A29B95ED</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/aaronsakowski/REPagedScrollView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA79BFFC-1562-4975-B5BF-3F52A29B95ED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA79BFFC-1562-4975-B5BF-3F52A29B95ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>REPagedScrollView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
